@@ -1,0 +1,1509 @@
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== UK =====" tvg-logo="" group-title="",===== UK =====
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1203
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sport Ultimate 4K" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sport Ultimate 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/124500
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC One FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC One FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/125452
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC One UHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC One UHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/125419
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="VIP UK: BBC One" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC One
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2240
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="VIP UK: BBC Two FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: BBC Two FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2238
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BBC Three FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Three FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2239
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="VIP UK: BBC Four FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: BBC Four FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8169
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="VIP UK: ITV FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: ITV FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6886
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="VIP UK: ITV 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: ITV 2 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7623
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="VIP UK: ITV 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: ITV 3 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8182
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="VIP UK: ITV 4 FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: ITV 4 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7624
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="VIP UK: Channel 4 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Channel 4 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8170
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="VIP UK: Channel 5 FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Channel 5 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8171
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media One" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Virgin Media One
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/22622
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media Two" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Virgin Media Two
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/22623
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media Three" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Virgin Media Three
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/22624
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="VIP UK: Sky Atlantic HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Atlantic HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12581
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="VIP UK: Sky Cinema Action HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Action HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12576
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="VIP UK: Sky Cinema Animation HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema Animation HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12575
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="VIP UK: Sky Cinema Comedy HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Comedy HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12577
+#EXTINF:-1 tvg-ID="skydisney.uk" tvg-name="VIP UK: Sky Cinema Disney HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Disney HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11773
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="VIP UK: Sky Cinema Drama HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Drama HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11772
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Cinema Family HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema Family HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/29790
+#EXTINF:-1 tvg-ID="Sky Movies Greats UK" tvg-name="VIP UK: Sky Cinema Greats HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Greats HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11771
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Cinema Hits HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema Hits HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/60881
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="VIP UK: Sky Cinema Premiere HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Premiere HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11769
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="VIP UK: Sky Cinema SC-FI & Horror HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema SC-FI & Horror HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11768
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="VIP UK: Sky Cinema Select HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Select HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12579
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="VIP UK: Sky Cinema Thriller HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Thriller HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12578
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Documentary FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Documentary FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30634
+#EXTINF:-1 tvg-ID="itvboxoffice.uk" tvg-name="VIP UK: Sky History FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky History FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12475
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Nature FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Nature FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20585
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="VIP UK: Sky Witness HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Witness HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20567
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Crime FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Crime FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Great! Movies Action" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Great! Movies Action
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74230
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Great! Movies Classic" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Great! Movies Classic
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74231
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: SKY Store PreOrder 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SKY Store PreOrder 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74228
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/44266
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 2 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/44267
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 3 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/44268
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 4 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 4 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/44269
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 5 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 5 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/44270
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/60877
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="VIP UK: BT Sports 1 HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: BT Sports 1 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8178
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 2 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/60878
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="VIP UK: BT Sports 2 HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: BT Sports 2 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8179
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 3 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/60879
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="VIP UK: BT Sports 3 HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 3 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 4 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 4 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/60880
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="VIP UK: BT Sports 4 HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: BT Sports 4 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20199
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 5 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 5 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118260
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 6 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 6 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118261
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 7 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 7 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118262
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 8 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 8 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118263
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 9 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 9 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118264
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 10 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 10 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118265
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports Box Office HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports Box Office HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20823
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74229
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: EIR SPORTS 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: EIR SPORTS 1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30526
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: EIR SPORTS 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: EIR SPORTS 2 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30527
+#EXTINF:-1 tvg-ID="elevensports.uk" tvg-name="VIP UK: ELEVEN SPORT 1 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: ELEVEN SPORT 1 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18770
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Eurosport 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Eurosport 1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/66148
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Eurosport 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Eurosport 2 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/66149
+#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="VIP UK: Viaplay Sports 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Viaplay Sports 1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/22620
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="VIP UK: Viaplay Sports 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Viaplay Sports 2 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30440
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="VIP UK: Viaplay Xtra HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Viaplay Xtra HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/16288
+#EXTINF:-1 tvg-ID="elevensports.uk" tvg-name="VIP UK: LA LIGA HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: LA LIGA HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18771
+#EXTINF:-1 tvg-ID="skysportsboxoffice.uk" tvg-name="VIP UK: Sky Box Office PPV HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Box Office PPV HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13672
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Arena FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30347
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Arena HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12662
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="VIP UK: Sky Sport Cricket FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Cricket FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30346
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="VIP UK: Sky Sport Cricket HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Cricket HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8173
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sport F1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport F1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30345
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sport F1 HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport F1 HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8177
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Football FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30344
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Football HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12663
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="VIP UK: Sky Sport Golf FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Golf FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30343
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="VIP UK: Sky Sport Golf HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Golf HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8175
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Event FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Main Event FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30342
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Events HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Main Events HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8172
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Mix FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30339
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Mix HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/28990
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="VIP UK: Sky Sport News FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport News FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30338
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="VIP UK: Sky Sport News HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport News HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/28991
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport Action FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Action FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30348
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport Action HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Action HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8174
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Premier League 4K" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Premier League 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/144299
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="VIP UK: Sky Sport Premier League FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Premier League FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30341
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="VIP UK: Sky Sport PL HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport PL HD 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/8176
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="VIP UK: Sky Sport Racing" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Racing
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26015
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="VIP UK: Sky Sport Racing FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Racing FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30340
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media Sport HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Virgin Media Sport HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26923
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Betfred TV" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Betfred TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20592
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Coral TV 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Coral TV 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20590
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Coral TV 2" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Coral TV 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74233
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Ladbrokes TV" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Ladbrokes TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20588
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Ladbrokes TV 2" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Ladbrokes TV 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20589
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Ladbrokes TV 3" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Ladbrokes TV 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74232
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Paddy Power TV 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Paddy Power TV 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20587
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SIS One" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: SIS One
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20583
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SIS Racing" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: SIS Racing
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20584
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SIS Two" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: SIS Two
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20582
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: William Hill BTV" tvg-logo="" group-title="Live: United Kingdom",VIP UK: William Hill BTV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74098
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: William Hill One" tvg-logo="" group-title="Live: United Kingdom",VIP UK: William Hill One
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20576
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: William Hill Two TV" tvg-logo="" group-title="Live: United Kingdom",VIP UK: William Hill Two TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74097
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Birmingham City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Birmingham City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Blackburn Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Blackburn Rovers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Blackpool  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Blackpool  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139172
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Bristol City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Bristol City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139173
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Burnley  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Burnley  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139174
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Cardiff City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Cardiff City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139175
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Coventry City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Coventry City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139176
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Huddersfield Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Huddersfield Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139177
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Hull City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Hull City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139178
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Luton Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Luton Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139179
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Middlesbrough  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Middlesbrough  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139180
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Milwall  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Milwall  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139181
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Norwich City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Norwich City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139182
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Preston North End  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Preston North End  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139183
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Queens Park Rangers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Queens Park Rangers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139184
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Reading  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Reading  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139185
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Rotherham United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Rotherham United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139186
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Sheffield United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Sheffield United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139187
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Stoke City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Stoke City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139188
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Sunderland  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Sunderland  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139189
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Swansea City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Swansea City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139190
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Watford  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Watford  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139192
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| West Bromwich Albion  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| West Bromwich Albion  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139191
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Wigan Athletic  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Wigan Athletic  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139193
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Accrington Stanley  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Accrington Stanley  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139194
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Barnley  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Barnley  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139195
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Bolton Wanderers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Bolton Wanderers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139196
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Bristol Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Bristol Rovers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139197
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Burton Albion  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Burton Albion  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139198
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Cambridge United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Cambridge United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139199
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Charlton Athletic  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Charlton Athletic  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139200
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Cheltenham Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Cheltenham Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139201
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Derby County  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Derby County  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139202
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Exeter City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Exeter City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139203
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Fleetwood Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Fleetwood Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139204
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Forest Green Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Forest Green Rovers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139205
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Ipswich Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Ipswich Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139206
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Lincoln City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Lincoln City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139207
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| MK Dons  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| MK Dons  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139208
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Morecambe  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Morecambe  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139209
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Oxford United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Oxford United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139210
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Peterborough United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Peterborough United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139211
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Plymouth Argyle  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Plymouth Argyle  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139212
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Port Vale  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Port Vale  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139214
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Portsmouth  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Portsmouth  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139213
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Sheffield Wednesday  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Sheffield Wednesday  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139215
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Shrewsbury Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Shrewsbury Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139216
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Wycombe Wanderers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Wycombe Wanderers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139217
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| AFC Wimbledon  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| AFC Wimbledon  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139218
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Barrow  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Barrow  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139219
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Bradford City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Bradford City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139220
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Carlisle United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Carlisle United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139221
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Colchester United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Colchester United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139222
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Crawley Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Crawley Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139223
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Crewe Alexandra  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Crewe Alexandra  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139224
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Doncaster Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Doncaster Rovers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139225
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Gillingham  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Gillingham  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139226
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Grimsby Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Grimsby Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139227
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Harrogate Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Harrogate Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139228
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Hartlepool United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Hartlepool United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139229
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Leyton Orient  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Leyton Orient  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139230
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Mansfield Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Mansfield Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139231
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Newport County  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Newport County  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139232
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Northampton Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Northampton Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139233
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Rochdale  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Rochdale  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139234
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Salford City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Salford City  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139235
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Stevenage  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Stevenage  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139236
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Stockport County  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Stockport County  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139237
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Sutton United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Sutton United  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139238
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Swindon Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Swindon Town  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139239
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Tranmere Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Tranmere Rovers  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139240
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Walsall  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Walsall  
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/139241
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94357
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94591
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 2" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94592
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 3" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94593
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 4" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94594
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 5" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 5
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94595
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 6" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 6
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94596
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 7" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 7
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94597
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 8" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 8
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94598
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 9" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 9
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/94599
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 1 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 1 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118153
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 2 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 2 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118154
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 3 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 3 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118155
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 4 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 4 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118156
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 5 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 5 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118157
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 6 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 6 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118158
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 7 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 7 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118159
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 01 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 01 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26214
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 02 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 02 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26213
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 03 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 03 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26212
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 04 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 04 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26211
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 05 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 05 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26210
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 06 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 06 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26209
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 07 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 07 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26208
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 08 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 08 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26207
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 09 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 09 [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26206
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: CELTIC FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: CELTIC FC TV [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30557
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DUNDEE FC TV [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DUNDEE FC TV [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30553
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: ABERDEEN FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: ABERDEEN FC TV [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30552
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: HEARTS TV [Live During Events Only]" tvg-logo="[""]" group-title="Live: United Kingdom",VIP UK: HEARTS TV [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30554
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: HIBS FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: HIBS FC TV [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30555
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Leeds United TV [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Leeds United TV [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/31105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: RANGERS FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: RANGERS FC TV [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/30556
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 1 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 1 HD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/34646
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 2 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 2 HD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/34647
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 3 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 3 HD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/34648
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 4 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 4 HD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/34649
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 5 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 5 HD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/34650
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: SPFL 6 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 6 HD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/34651
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 1 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 1 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118160
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 2 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 2 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118161
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 3 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 3 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118162
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 4 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 4 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118163
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 5 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 5 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118164
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 6 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 6 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118165
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 7 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 7 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118166
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 8 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 8 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118167
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 9 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 9 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118168
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 10 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 10 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118169
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 11 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 11 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 12 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 12 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 13 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 13 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118172
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 14 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 14 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118173
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 15 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 15 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118174
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 16 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 16 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118175
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 17 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 17 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118176
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 18 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 18 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118177
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 19 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 19 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118178
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 20 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 20 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118179
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 21 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 21 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118180
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 22 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 22 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118181
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 23 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 23 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118182
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 24 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 24 FHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/118183
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK: BBC 1" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/274
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK: BBC 2" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/273
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: BBC 3" tvg-logo="" group-title="Live: United Kingdom",UK: BBC 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/272
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK: BBC 4" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC 4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/271
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="UK: BBC Scotland" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Scotland
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/29121
+#EXTINF:-1 tvg-ID="bbc1scotland.uk" tvg-name="UK: BBC One Scotland" tvg-logo="" group-title="Live: United Kingdom",UK: BBC One Scotland
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/17995
+#EXTINF:-1 tvg-ID="BBC Two Scotland UK" tvg-name="UK: BBC Two Scotland" tvg-logo="" group-title="Live: United Kingdom",UK: BBC Two Scotland
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/17996
+#EXTINF:-1 tvg-ID="bbc1wales.uk" tvg-name="UK: BBC One Wales" tvg-logo="" group-title="Live: United Kingdom",UK: BBC One Wales
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/17997
+#EXTINF:-1 tvg-ID="bbc2wales.uk" tvg-name="UK: BBC Two Wales" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Two Wales
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/29123
+#EXTINF:-1 tvg-ID="bbc1northernireland.uk" tvg-name="UK: BBC One Northern Ireland" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC One Northern Ireland
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/29122
+#EXTINF:-1 tvg-ID="bbc2northernireland.uk" tvg-name="UK: BBC Two Northern Ireland" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Two Northern Ireland
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/29124
+#EXTINF:-1 tvg-ID="bbcparliament.uk" tvg-name="UK: BBC Parliament" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Parliament
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/17998
+#EXTINF:-1 tvg-ID="BBC ALBA UK" tvg-name="UK: BBC Alba" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Alba
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/17999
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="UK: CBeebies HD" tvg-logo="" group-title="Live: United Kingdom",UK: CBeebies HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6146
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="UK: CBBC" tvg-logo="[""]" group-title="Live: United Kingdom",UK: CBBC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6147
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="UK: BBC News HD" tvg-logo="" group-title="Live: United Kingdom",UK: BBC News HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/915
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="UK: BBC World News" tvg-logo="" group-title="Live: United Kingdom",UK: BBC World News
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26106
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="UK: Itv 1" tvg-logo="[" group-title="Live: United Kingdom",UK: Itv 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/268
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 1  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 1  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74182
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="UK: Itv 2" tvg-logo="" group-title="Live: United Kingdom",UK: Itv 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/267
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 2  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 2  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74183
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="UK: Itv 3" tvg-logo="" group-title="Live: United Kingdom",UK: Itv 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/252
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 3  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 3  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74184
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="UK: Itv 4" tvg-logo="" group-title="Live: United Kingdom",UK: Itv 4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/251
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 4  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 4  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74185
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Channel 4 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/927
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK: Channel 5 HD" tvg-logo="" group-title="Live: United Kingdom",UK: Channel 5 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/928
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Channel 5  1" tvg-logo="" group-title="Live: United Kingdom",UK: Channel 5  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74149
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Main Events
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/259
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Cricket
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/258
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: Sky Sport Action" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Action
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/257
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Golf
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/256
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport PL" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Sport PL
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/255
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Sport F1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/253
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport News
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/416
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Main Events HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6680
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Cricket HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6681
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Action HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6682
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Sport Golf HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6683
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Premier League HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6684
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Sport Football HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15406
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Sport Arena HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12665
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport F1 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/6685
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK: Sky Sports News HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sports News HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1624
+#EXTINF:-1 tvg-ID="Sky Sports Mix HD UK" tvg-name="UK: Sky Sports MIX" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Sports MIX
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7608
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sports 1 HD" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sports 1 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1641
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sports 2 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: BT Sports 2 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2512
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sports 3 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: BT Sports 3 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2513
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="[" group-title="Live: United Kingdom",UK: BT Sport 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/374
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="[" group-title="Live: United Kingdom",UK: BT Sport 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/375
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="[" group-title="Live: United Kingdom",UK: BT Sport 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1282
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sport ESPN HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/587
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Extra" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sport Extra
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1247
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Mosaic" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sport Mosaic
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7609
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sport Extra 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7610
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK: BT Sport Extra 2" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sport Extra 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7611
+#EXTINF:-1 tvg-ID="btsportx3.uk" tvg-name="UK: BT Sport Extra 3" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sport Extra 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7612
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="UK: BT Sport Extra 4" tvg-logo="" group-title="Live: United Kingdom",UK: BT Sport Extra 4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7613
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK: EuroSport 1 HD" tvg-logo="" group-title="Live: United Kingdom",UK: EuroSport 1 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1634
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK: EuroSport 2" tvg-logo="" group-title="Live: United Kingdom",UK: EuroSport 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1633
+#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="UK: Eir Sport 1" tvg-logo="" group-title="Live: United Kingdom",UK: Eir Sport 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/376
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="UK: Eir Sport 2" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Eir Sport 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18130
+#EXTINF:-1 tvg-ID="chelseatv.uk" tvg-name="UK: Chelsea TV HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Chelsea TV HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/937
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK: Racing HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Racing HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/14151
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="" group-title="Live: United Kingdom",UK: MUTV HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7631
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV" tvg-logo="[""]" group-title="Live: United Kingdom",UK: MUTV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1238
+#EXTINF:-1 tvg-ID="3e UK" tvg-name="UK: 3E" tvg-logo="" group-title="Live: United Kingdom",UK: 3E
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/920
+#EXTINF:-1 tvg-ID="4music.uk" tvg-name="UK: 4Music" tvg-logo="" group-title="Live: United Kingdom",UK: 4Music
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12518
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK: 4seven" tvg-logo="" group-title="Live: United Kingdom",UK: 4seven
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12517
+#EXTINF:-1 tvg-ID="hearttv.uk" tvg-name="UK: 5 Select" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Select
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12309
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="UK: 5 Star" tvg-logo="[" group-title="Live: United Kingdom",UK: 5 Star
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7616
+#EXTINF:-1 tvg-ID="" tvg-name="UK: 5 Star  1" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Star  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74140
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="UK: 5 Usa" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Usa
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/922
+#EXTINF:-1 tvg-ID="" tvg-name="UK: 5 Usa  1" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Usa  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74141
+#EXTINF:-1 tvg-ID="aajtak.uk" tvg-name="UK: Aaj Tak" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Aaj Tak
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2858
+#EXTINF:-1 tvg-ID="abpnews.uk" tvg-name="UK: ABP News" tvg-logo="" group-title="Live: United Kingdom",UK: ABP News
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2859
+#EXTINF:-1 tvg-ID="" tvg-name="UK: AL Jazeera HD" tvg-logo="" group-title="Live: United Kingdom",UK: AL Jazeera HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74142
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="UK: Alibi" tvg-logo="" group-title="Live: United Kingdom",UK: Alibi
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/933
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Alibi  1" tvg-logo="" group-title="Live: United Kingdom",UK: Alibi  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74143
+#EXTINF:-1 tvg-ID="amc.uk" tvg-name="UK: AMC From BT" tvg-logo="[""]" group-title="Live: United Kingdom",UK: AMC From BT
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12495
+#EXTINF:-1 tvg-ID="andtv.uk" tvg-name="UK: And TV" tvg-logo="" group-title="Live: United Kingdom",UK: And TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2841
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Animal Planet  1" tvg-logo="" group-title="Live: United Kingdom",UK: Animal Planet  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74144
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="UK: Animal Planet HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Animal Planet HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1643
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Arirang TV" tvg-logo="" group-title="Live: United Kingdom",UK: Arirang TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74145
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Aris News" tvg-logo="" group-title="Live: United Kingdom",UK: Aris News
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: B4U Kadak" tvg-logo="" group-title="Live: United Kingdom",UK: B4U Kadak
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2851
+#EXTINF:-1 tvg-ID="b4umovies.uk" tvg-name="UK: B4U Movies" tvg-logo="[" group-title="Live: United Kingdom",UK: B4U Movies
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2850
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: B4U Music" tvg-logo="[" group-title="Live: United Kingdom",UK: B4U Music
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2853
+#EXTINF:-1 tvg-ID="babytv.uk" tvg-name="UK: baby tv" tvg-logo="" group-title="Live: United Kingdom",UK: baby tv
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2232
+#EXTINF:-1 tvg-ID="bet.uk" tvg-name="UK: BET" tvg-logo="" group-title="Live: United Kingdom",UK: BET
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7618
+#EXTINF:-1 tvg-ID="Bike UK" tvg-name="UK: Bike" tvg-logo="" group-title="Live: United Kingdom",UK: Bike
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12515
+#EXTINF:-1 tvg-ID="blaze.uk" tvg-name="UK: Blaze" tvg-logo="" group-title="Live: United Kingdom",UK: Blaze
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12514
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="UK: Bloomberg" tvg-logo="[" group-title="Live: United Kingdom",UK: Bloomberg
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12513
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="UK: Boomerang" tvg-logo="[" group-title="Live: United Kingdom",UK: Boomerang
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1285
+#EXTINF:-1 tvg-ID="boxupfront.uk" tvg-name="UK: BOX Hits" tvg-logo="[" group-title="Live: United Kingdom",UK: BOX Hits
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20572
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Brit Asia" tvg-logo="" group-title="Live: United Kingdom",UK: Brit Asia
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74147
+#EXTINF:-1 tvg-ID="" tvg-name="UK: British Muslim" tvg-logo="" group-title="Live: United Kingdom",UK: British Muslim
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74148
+#EXTINF:-1 tvg-ID="citv.uk" tvg-name="UK: C ITV" tvg-logo="" group-title="Live: United Kingdom",UK: C ITV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12511
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="UK: Cartoon network" tvg-logo="" group-title="Live: United Kingdom",UK: Cartoon network
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2231
+#EXTINF:-1 tvg-ID="cartoonito.uk" tvg-name="UK: Cartoonito" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Cartoonito
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/17913
+#EXTINF:-1 tvg-ID="cbsaction.uk" tvg-name="UK: CBS Drama" tvg-logo="[" group-title="Live: United Kingdom",UK: CBS Drama
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/924
+#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="UK: CBS Justice" tvg-logo="[" group-title="Live: United Kingdom",UK: CBS Justice
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/926
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="UK: CBS Reality" tvg-logo="" group-title="Live: United Kingdom",UK: CBS Reality
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/925
+#EXTINF:-1 tvg-ID="challenge.uk" tvg-name="UK: Challenge" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Challenge
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12512
+#EXTINF:-1 tvg-ID="chartshowhits.uk" tvg-name="UK: Chart Show Hits UK" tvg-logo="" group-title="Live: United Kingdom",UK: Chart Show Hits UK
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20591
+#EXTINF:-1 tvg-ID="MTV Dance UK" tvg-name="UK: Club MTV" tvg-logo="" group-title="Live: United Kingdom",UK: Club MTV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12308
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Clubland TV" tvg-logo="" group-title="Live: United Kingdom",UK: Clubland TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/42042
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[" group-title="Live: United Kingdom",UK: CNBC News
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12365
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: CNN HD" tvg-logo="[" group-title="Live: United Kingdom",UK: CNN HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/31078
+#EXTINF:-1 tvg-ID="colors.uk" tvg-name="UK: Colors" tvg-logo="" group-title="Live: United Kingdom",UK: Colors
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2845
+#EXTINF:-1 tvg-ID="colors.uk" tvg-name="UK: Colors Europe" tvg-logo="" group-title="Live: United Kingdom",UK: Colors Europe
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2846
+#EXTINF:-1 tvg-ID="comedyxtra.uk" tvg-name="UK: Comedy Central Extra" tvg-logo="[" group-title="Live: United Kingdom",UK: Comedy Central Extra
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1639
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="UK: Comedy Central HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Comedy Central HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2219
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Court TV" tvg-logo="" group-title="Live: United Kingdom",UK: Court TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74150
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Craft Extra" tvg-logo="" group-title="Live: United Kingdom",UK: Craft Extra
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74151
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Create & Craft" tvg-logo="" group-title="Live: United Kingdom",UK: Create & Craft
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74152
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK: Crime & Investigation HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Crime & Investigation HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12509
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Cruise 1st TV" tvg-logo="" group-title="Live: United Kingdom",UK: Cruise 1st TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74153
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK: Dave HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Dave HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/934
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Discovery
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1638
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74154
+#EXTINF:-1 tvg-ID="discoveryhistory.uk" tvg-name="UK: Discovery History" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Discovery History
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1245
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery History  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery History  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74155
+#EXTINF:-1 tvg-ID="discoveryscience.uk" tvg-name="UK: Discovery Science" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Discovery Science
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1299
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Science  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery Science  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74156
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="UK: Discovery Turbo" tvg-logo="[" group-title="Live: United Kingdom",UK: Discovery Turbo
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1637
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Turbo  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery Turbo  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74157
+#EXTINF:-1 tvg-ID="disneychannel.uk" tvg-name="UK: DISNEY HD" tvg-logo="[" group-title="Live: United Kingdom",UK: DISNEY HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1298
+#EXTINF:-1 tvg-ID="disneyxd.uk" tvg-name="UK: Disney XD" tvg-logo="[" group-title="Live: United Kingdom",UK: Disney XD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12507
+#EXTINF:-1 tvg-ID="" tvg-name="UK: DMAX  1" tvg-logo="" group-title="Live: United Kingdom",UK: DMAX  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74158
+#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="UK: DMAX HD" tvg-logo="" group-title="Live: United Kingdom",UK: DMAX HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2220
+#EXTINF:-1 tvg-ID="drama.uk" tvg-name="UK: Drama" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Drama
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1272
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Drama  1" tvg-logo="" group-title="Live: United Kingdom",UK: Drama  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74159
+#EXTINF:-1 tvg-ID="eentertainmentplus1.uk" tvg-name="UK: E!" tvg-logo="[""]" group-title="Live: United Kingdom",UK: E!
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1635
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK: E4" tvg-logo="[""]" group-title="Live: United Kingdom",UK: E4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7632
+#EXTINF:-1 tvg-ID="" tvg-name="UK: E4  1" tvg-logo="" group-title="Live: United Kingdom",UK: E4  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74160
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK: E4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: E4 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1270
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eden  1" tvg-logo="" group-title="Live: United Kingdom",UK: Eden  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74161
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="UK: EDEN HD" tvg-logo="[" group-title="Live: United Kingdom",UK: EDEN HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7628
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eman AR" tvg-logo="" group-title="Live: United Kingdom",UK: Eman AR
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74162
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EURONEWS" tvg-logo="" group-title="Live: United Kingdom",UK: EURONEWS
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74163
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EWTN" tvg-logo="" group-title="Live: United Kingdom",UK: EWTN
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74164
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Faith" tvg-logo="" group-title="Live: United Kingdom",UK: Faith
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74165
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FILM 4  1" tvg-logo="" group-title="Live: United Kingdom",UK: FILM 4  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74166
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK: Film 4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Film 4 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/917
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK: Film4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Film4 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7627
+#EXTINF:-1 tvg-ID="finelivingeurope.uk" tvg-name="UK: Fine Living Network" tvg-logo="[" group-title="Live: United Kingdom",UK: Fine Living Network
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1268
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="UK: Five" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Five
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20573
+#EXTINF:-1 tvg-ID="foodnetwork.uk" tvg-name="UK: Food Network" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Food Network
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/4389
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FOOD XP" tvg-logo="" group-title="Live: United Kingdom",UK: FOOD XP
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74167
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FORCES TV" tvg-logo="" group-title="Live: United Kingdom",UK: FORCES TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74168
+#EXTINF:-1 tvg-ID="FOX News UK" tvg-name="UK: Fox News HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Fox News HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2234
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="UK: France 24" tvg-logo="[" group-title="Live: United Kingdom",UK: France 24
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12504
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="UK: Viaplay Xtra" tvg-logo="[" group-title="Live: United Kingdom",UK: Viaplay Xtra
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12505
+#EXTINF:-1 tvg-ID="" tvg-name="UK: GOD TV" tvg-logo="" group-title="Live: United Kingdom",UK: GOD TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74169
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK: Gold" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Gold
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/932
+#EXTINF:-1 tvg-ID="" tvg-name="UK: GOLD  1" tvg-logo="" group-title="Live: United Kingdom",UK: GOLD  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74170
+#EXTINF:-1 tvg-ID="goodfood.uk" tvg-name="UK: Good Food" tvg-logo="[" group-title="Live: United Kingdom",UK: Good Food
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/923
+#EXTINF:-1 tvg-ID="home.uk" tvg-name="UK: H&H+1" tvg-logo="[" group-title="Live: United Kingdom",UK: H&H+1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/931
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="UK: H2" tvg-logo="" group-title="Live: United Kingdom",UK: H2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2237
+#EXTINF:-1 tvg-ID="" tvg-name="UK: HGTV" tvg-logo="" group-title="Live: United Kingdom",UK: HGTV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74171
+#EXTINF:-1 tvg-ID="" tvg-name="UK: HIDAYAT" tvg-logo="" group-title="Live: United Kingdom",UK: HIDAYAT
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74172
+#EXTINF:-1 tvg-ID="" tvg-name="UK: High Street TV" tvg-logo="" group-title="Live: United Kingdom",UK: High Street TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74173
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Hillsong" tvg-logo="" group-title="Live: United Kingdom",UK: Hillsong
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74174
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK: History HD" tvg-logo="" group-title="Live: United Kingdom",UK: History HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2236
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Hochanda" tvg-logo="" group-title="Live: United Kingdom",UK: Hochanda
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74175
+#EXTINF:-1 tvg-ID="homeandhealth.uk" tvg-name="UK: Home Health" tvg-logo="" group-title="Live: United Kingdom",UK: Home Health
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12503
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="UK: Horror Channel" tvg-logo="[" group-title="Live: United Kingdom",UK: Horror Channel
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/935
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Horror Channel  1" tvg-logo="" group-title="Live: United Kingdom",UK: Horror Channel  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74176
+#EXTINF:-1 tvg-ID="horseandcountry.uk" tvg-name="UK: Horse and Country" tvg-logo="" group-title="Live: United Kingdom",UK: Horse and Country
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7617
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ID  1" tvg-logo="" group-title="Live: United Kingdom",UK: ID  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74180
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Ideal World HD" tvg-logo="" group-title="Live: United Kingdom",UK: Ideal World HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74177
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Insight TV HD" tvg-logo="" group-title="Live: United Kingdom",UK: Insight TV HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74178
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Inspiration TV" tvg-logo="" group-title="Live: United Kingdom",UK: Inspiration TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74179
+#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="UK: Investigation Discovery" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Investigation Discovery
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1296
+#EXTINF:-1 tvg-ID="" tvg-name="UK: iON TV" tvg-logo="" group-title="Live: United Kingdom",UK: iON TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74181
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Anglia" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Anglia
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74186
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV BE  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV BE  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74187
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Encore" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Encore
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74188
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Granada" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Granada
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74189
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV London" tvg-logo="" group-title="Live: United Kingdom",UK: ITV London
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74190
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Yorkshire" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Yorkshire
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74191
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="UK: ITVBE" tvg-logo="[" group-title="Live: United Kingdom",UK: ITVBE
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2224
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Kanshi TV" tvg-logo="" group-title="Live: United Kingdom",UK: Kanshi TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74192
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Keep It Country" tvg-logo="" group-title="Live: United Kingdom",UK: Keep It Country
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74193
+#EXTINF:-1 tvg-ID="kerrang.uk" tvg-name="UK: Kerrang TV" tvg-logo="" group-title="Live: United Kingdom",UK: Kerrang TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20578
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="[" group-title="Live: United Kingdom",UK: LFC TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1239
+#EXTINF:-1 tvg-ID="lifetime.uk" tvg-name="UK: Life Time HD" tvg-logo="" group-title="Live: United Kingdom",UK: Life Time HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12501
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Live 360" tvg-logo="" group-title="Live: United Kingdom",UK: Live 360
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74194
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Living" tvg-logo="" group-title="Live: United Kingdom",UK: Living
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74195
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Living HD" tvg-logo="" group-title="Live: United Kingdom",UK: Living HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74196
+#EXTINF:-1 tvg-ID="londonlive.uk" tvg-name="UK: London Live" tvg-logo="[" group-title="Live: United Kingdom",UK: London Live
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12500
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love Nature" tvg-logo="" group-title="Live: United Kingdom",UK: Love Nature
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74197
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love Nature HD" tvg-logo="" group-title="Live: United Kingdom",UK: Love Nature HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74198
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love World" tvg-logo="" group-title="Live: United Kingdom",UK: Love World
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74199
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love World HD" tvg-logo="" group-title="Live: United Kingdom",UK: Love World HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74200
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Madani Channel" tvg-logo="" group-title="Live: United Kingdom",UK: Madani Channel
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74201
+#EXTINF:-1 tvg-ID="magic.uk" tvg-name="UK: Magic TV" tvg-logo="" group-title="Live: United Kingdom",UK: Magic TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12498
+#EXTINF:-1 tvg-ID="" tvg-name="UK: MATV National" tvg-logo="" group-title="Live: United Kingdom",UK: MATV National
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74202
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK: More 4" tvg-logo="[""]" group-title="Live: United Kingdom",UK: More 4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1295
+#EXTINF:-1 tvg-ID="" tvg-name="UK: More 4  1" tvg-logo="" group-title="Live: United Kingdom",UK: More 4  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74203
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK: More 4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: More 4 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7630
+#EXTINF:-1 tvg-ID="motorstv.uk" tvg-name="UK: Motors" tvg-logo="[" group-title="Live: United Kingdom",UK: Motors
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12499
+#EXTINF:-1 tvg-ID="MTV Base UK" tvg-name="UK: MTV Base" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Base
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12305
+#EXTINF:-1 tvg-ID="mtvclassic.uk" tvg-name="UK: MTV Classic" tvg-logo="[" group-title="Live: United Kingdom",UK: MTV Classic
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7619
+#EXTINF:-1 tvg-ID="mtvdance.uk" tvg-name="UK: MTV Dance" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Dance
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26351
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="UK: MTV HD" tvg-logo="[" group-title="Live: United Kingdom",UK: MTV HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7622
+#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="UK: MTV Hits" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Hits
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7621
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: MTV Live FHD" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Live FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/35379
+#EXTINF:-1 tvg-ID="MTV Music UK" tvg-name="UK: MTV Music" tvg-logo="[""]" group-title="Live: United Kingdom",UK: MTV Music
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12306
+#EXTINF:-1 tvg-ID="mtvomg.uk" tvg-name="UK: MTV OMG" tvg-logo="[" group-title="Live: United Kingdom",UK: MTV OMG
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26352
+#EXTINF:-1 tvg-ID="mtvrocks.uk" tvg-name="UK: MTV Rocks" tvg-logo="[""]" group-title="Live: United Kingdom",UK: MTV Rocks
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12307
+#EXTINF:-1 tvg-ID="" tvg-name="UK: My TV" tvg-logo="" group-title="Live: United Kingdom",UK: My TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74204
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK: Nat Geo HD" tvg-logo="" group-title="Live: United Kingdom",UK: Nat Geo HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1293
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK: Nat Geo Wild" tvg-logo="" group-title="Live: United Kingdom",UK: Nat Geo Wild
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1302
+#EXTINF:-1 tvg-ID="" tvg-name="UK: New Vision TV" tvg-logo="" group-title="Live: United Kingdom",UK: New Vision TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74205
+#EXTINF:-1 tvg-ID="" tvg-name="UK: News Max" tvg-logo="" group-title="Live: United Kingdom",UK: News Max
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74206
+#EXTINF:-1 tvg-ID="" tvg-name="UK: NHK WORLD" tvg-logo="" group-title="Live: United Kingdom",UK: NHK WORLD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74207
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK: Nick Jnr Too" tvg-logo="[" group-title="Live: United Kingdom",UK: Nick Jnr Too
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12496
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK: NICK JUNIOR" tvg-logo="" group-title="Live: United Kingdom",UK: NICK JUNIOR
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1292
+#EXTINF:-1 tvg-ID="nicktoons.uk" tvg-name="UK: NICK TOONS" tvg-logo="[""]" group-title="Live: United Kingdom",UK: NICK TOONS
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1261
+#EXTINF:-1 tvg-ID="nickelodeon.uk" tvg-name="UK: Nickelodeon" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Nickelodeon
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1291
+#EXTINF:-1 tvg-ID="nollywood.uk" tvg-name="UK: Nollywood" tvg-logo="" group-title="Live: United Kingdom",UK: Nollywood
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/14150
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: Now 80s" tvg-logo="" group-title="Live: United Kingdom",UK: Now 80s
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26617
+#EXTINF:-1 tvg-ID="now90s.uk" tvg-name="UK: Now 90s" tvg-logo="" group-title="Live: United Kingdom",UK: Now 90s
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20579
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Paramount Network" tvg-logo="" group-title="Live: United Kingdom",UK: Paramount Network
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74208
+#EXTINF:-1 tvg-ID="" tvg-name="UK: PBS America" tvg-logo="" group-title="Live: United Kingdom",UK: PBS America
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20574
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Pcne Chinese" tvg-logo="" group-title="Live: United Kingdom",UK: Pcne Chinese
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74209
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Peace TV" tvg-logo="" group-title="Live: United Kingdom",UK: Peace TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74210
+#EXTINF:-1 tvg-ID="picktv.uk" tvg-name="UK: PICK" tvg-logo="[" group-title="Live: United Kingdom",UK: PICK
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2223
+#EXTINF:-1 tvg-ID="pop.uk" tvg-name="UK: POP" tvg-logo="[" group-title="Live: United Kingdom",UK: POP
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12494
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Pop Max" tvg-logo="" group-title="Live: United Kingdom",UK: Pop Max
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74211
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK: Quest" tvg-logo="[" group-title="Live: United Kingdom",UK: Quest
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/921
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Quest RED" tvg-logo="" group-title="Live: United Kingdom",UK: Quest RED
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74212
+#EXTINF:-1 tvg-ID="questred.uk" tvg-name="UK: Quest Red +1" tvg-logo="" group-title="Live: United Kingdom",UK: Quest Red +1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20417
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC" tvg-logo="" group-title="Live: United Kingdom",UK: QVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74213
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Beauty" tvg-logo="" group-title="Live: United Kingdom",UK: QVC Beauty
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74214
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Extra" tvg-logo="" group-title="Live: United Kingdom",UK: QVC Extra
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74215
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Style" tvg-logo="" group-title="Live: United Kingdom",UK: QVC Style
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74216
+#EXTINF:-1 tvg-ID="reallives.uk" tvg-name="UK: Real Lives" tvg-logo="" group-title="Live: United Kingdom",UK: Real Lives
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2222
+#EXTINF:-1 tvg-ID="really.uk" tvg-name="UK: Really" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Really
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1631
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Replay" tvg-logo="" group-title="Live: United Kingdom",UK: Replay
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74217
+#EXTINF:-1 tvg-ID="rishteycineplex.uk" tvg-name="UK: Rishtey" tvg-logo="" group-title="Live: United Kingdom",UK: Rishtey
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2843
+#EXTINF:-1 tvg-ID="rok.uk" tvg-name="UK: ROK TV" tvg-logo="[""]" group-title="Live: United Kingdom",UK: ROK TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20575
+#EXTINF:-1 tvg-ID="rtd.uk" tvg-name="UK: Afrobeats 24/7" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Afrobeats 24/7
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20570
+#EXTINF:-1 tvg-ID="RTE One UK" tvg-name="UK: RTE 1 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: RTE 1 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12493
+#EXTINF:-1 tvg-ID="RTE Two UK" tvg-name="UK: RTE 2 HD" tvg-logo="" group-title="Live: United Kingdom",UK: RTE 2 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12492
+#EXTINF:-1 tvg-ID="RTE News Now UK" tvg-name="UK: RTE News Now" tvg-logo="[" group-title="Live: United Kingdom",UK: RTE News Now
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20569
+#EXTINF:-1 tvg-ID="RTE One UK" tvg-name="UK: Rte One" tvg-logo="[" group-title="Live: United Kingdom",UK: Rte One
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/418
+#EXTINF:-1 tvg-ID="RTE Two UK" tvg-name="UK: Rte Two" tvg-logo="[" group-title="Live: United Kingdom",UK: Rte Two
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/584
+#EXTINF:-1 tvg-ID="RTE Jr UK" tvg-name="UK: RTEjr" tvg-logo="[" group-title="Live: United Kingdom",UK: RTEjr
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2227
+#EXTINF:-1 tvg-ID="S4C UK" tvg-name="UK: S4C" tvg-logo="[" group-title="Live: United Kingdom",UK: S4C
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12491
+#EXTINF:-1 tvg-ID="sonysab.uk" tvg-name="UK: Sab TV (SET)" tvg-logo="" group-title="Live: United Kingdom",UK: Sab TV (SET)
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2840
+#EXTINF:-1 tvg-ID="sonymax.uk" tvg-name="UK: SET Max" tvg-logo="[""]" group-title="Live: United Kingdom",UK: SET Max
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2849
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK: SKY 1 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: SKY 1 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/7629
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="UK: Sky Arts" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Arts
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/414
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="UK: Sky Atlantic" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Atlantic
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12275
+#EXTINF:-1 tvg-ID="skyliving.uk" tvg-name="UK: Sky Living" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Living
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/585
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK: Sky Movies Action & Adv" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Movies Action & Adv
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/264
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="UK: Sky Movies Comedy" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Movies Comedy
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/263
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK: Sky Movies Drama" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Drama
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/265
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK: Sky Movies Family" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Movies Family
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/266
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="UK: Sky Movies Modern-Geant" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Modern-Geant
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/262
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK: Sky Movies Premiere" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Premiere
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/261
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="UK: Sky Movies Sci-Fi" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Sci-Fi
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/254
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="UK: Sky Movies Select" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Movies Select
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/260
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK: Sky Movies Showcase" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Showcase
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/269
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="UK: Sky Movies Thriller" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Movies Thriller
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/270
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="UK: Sky News" tvg-logo="" group-title="Live: United Kingdom",UK: Sky News
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/930
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK: Sky One" tvg-logo="" group-title="Live: United Kingdom",UK: Sky One
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/417
+#EXTINF:-1 tvg-ID="sky2.uk" tvg-name="UK: Sky Two" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Two
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/415
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="UK: Sky Witness" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Witness
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20568
+#EXTINF:-1 tvg-ID="sonychannel.uk" tvg-name="UK: Sony Channel" tvg-logo="" group-title="Live: United Kingdom",UK: Sony Channel
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12489
+#EXTINF:-1 tvg-ID="sonychannel.uk" tvg-name="UK: Sony Entertainment (SET)" tvg-logo="" group-title="Live: United Kingdom",UK: Sony Entertainment (SET)
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2839
+#EXTINF:-1 tvg-ID="spike.uk" tvg-name="UK: spike" tvg-logo="" group-title="Live: United Kingdom",UK: spike
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2226
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sportystaff TV" tvg-logo="" group-title="Live: United Kingdom",UK: Sportystaff TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74218
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Spotlight TV" tvg-logo="" group-title="Live: United Kingdom",UK: Spotlight TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74219
+#EXTINF:-1 tvg-ID="starbharat.uk" tvg-name="UK: Star Bharat" tvg-logo="" group-title="Live: United Kingdom",UK: Star Bharat
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2842
+#EXTINF:-1 tvg-ID="stargold.uk" tvg-name="UK: Star Gold" tvg-logo="" group-title="Live: United Kingdom",UK: Star Gold
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2848
+#EXTINF:-1 tvg-ID="starutsav.uk" tvg-name="UK: Star Jalsha" tvg-logo="" group-title="Live: United Kingdom",UK: Star Jalsha
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2857
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: Star Plus" tvg-logo="[" group-title="Live: United Kingdom",UK: Star Plus
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2838
+#EXTINF:-1 tvg-ID="Starz TV UK" tvg-name="UK: Starz TV" tvg-logo="" group-title="Live: United Kingdom",UK: Starz TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12488
+#EXTINF:-1 tvg-ID="STV HD UK" tvg-name="UK: STV HD" tvg-logo="" group-title="Live: United Kingdom",UK: STV HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12487
+#EXTINF:-1 tvg-ID="Syfy UK" tvg-name="UK: Syfy" tvg-logo="" group-title="Live: United Kingdom",UK: Syfy
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25878
+#EXTINF:-1 tvg-ID="truecrime.uk" tvg-name="UK: Talking Pictures HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Talking Pictures HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12483
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK: TCM HD" tvg-logo="" group-title="Live: United Kingdom",UK: TCM HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/21324
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Tcm Movies  1" tvg-logo="" group-title="Live: United Kingdom",UK: Tcm Movies  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74220
+#EXTINF:-1 tvg-ID="TG4 UK" tvg-name="UK: TG4" tvg-logo="" group-title="Live: United Kingdom",UK: TG4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1255
+#EXTINF:-1 tvg-ID="thevault.uk" tvg-name="UK: The Vault" tvg-logo="" group-title="Live: United Kingdom",UK: The Vault
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12486
+#EXTINF:-1 tvg-ID="tinypop.uk" tvg-name="UK: Tiny Pop" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Tiny Pop
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12485
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="UK: TLC" tvg-logo="[""]" group-title="Live: United Kingdom",UK: TLC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2074
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TLC  1" tvg-logo="" group-title="Live: United Kingdom",UK: TLC  1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74221
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Together" tvg-logo="" group-title="Live: United Kingdom",UK: Together
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74222
+#EXTINF:-1 tvg-ID="talkingpictures.uk" tvg-name="UK: Free Documentary" tvg-logo="" group-title="Live: United Kingdom",UK: Free Documentary
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20571
+#EXTINF:-1 tvg-ID="travelchannel.uk" tvg-name="UK: Travel Channel" tvg-logo="" group-title="Live: United Kingdom",UK: Travel Channel
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12484
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Travel XP" tvg-logo="" group-title="Live: United Kingdom",UK: Travel XP
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74223
+#EXTINF:-1 tvg-ID="True Entertainment UK" tvg-name="UK: True Ent" tvg-logo="" group-title="Live: United Kingdom",UK: True Ent
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12482
+#EXTINF:-1 tvg-ID="truemovies.uk" tvg-name="UK: True Movies 1" tvg-logo="" group-title="Live: United Kingdom",UK: True Movies 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1251
+#EXTINF:-1 tvg-ID="trutv.uk" tvg-name="UK: True TV" tvg-logo="[" group-title="Live: United Kingdom",UK: True TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12481
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TV ONE" tvg-logo="" group-title="Live: United Kingdom",UK: TV ONE
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74224
+#EXTINF:-1 tvg-ID="TV3 UK" tvg-name="UK: TV3 IR HD" tvg-logo="[" group-title="Live: United Kingdom",UK: TV3 IR HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2225
+#EXTINF:-1 tvg-ID="tv5monde.uk" tvg-name="UK: TV5" tvg-logo="[""]" group-title="Live: United Kingdom",UK: TV5
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12480
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: UFC fight night Pass HD" tvg-logo="" group-title="Live: United Kingdom",UK: UFC fight night Pass HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12520
+#EXTINF:-1 tvg-ID="" tvg-name="UK: UFC Fight PASS" tvg-logo="" group-title="Live: United Kingdom",UK: UFC Fight PASS
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12479
+#EXTINF:-1 tvg-ID="universal.uk" tvg-name="UK: Universal Channel HD" tvg-logo="" group-title="Live: United Kingdom",UK: Universal Channel HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12276
+#EXTINF:-1 tvg-ID="UTV UK" tvg-name="UK: UTV Ireland" tvg-logo="[" group-title="Live: United Kingdom",UK: UTV Ireland
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2221
+#EXTINF:-1 tvg-ID="" tvg-name="UK: V2BEAT" tvg-logo="" group-title="Live: United Kingdom",UK: V2BEAT
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74225
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Venus" tvg-logo="" group-title="Live: United Kingdom",UK: Venus
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74226
+#EXTINF:-1 tvg-ID="vh1.uk" tvg-name="UK: VH1 Classic" tvg-logo="[""]" group-title="Live: United Kingdom",UK: VH1 Classic
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13841
+#EXTINF:-1 tvg-ID="viceland.uk" tvg-name="UK: Viceland HD" tvg-logo="" group-title="Live: United Kingdom",UK: Viceland HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12478
+#EXTINF:-1 tvg-ID="VIVA UK" tvg-name="UK: VIVA" tvg-logo="" group-title="Live: United Kingdom",UK: VIVA
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12477
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK: W HD" tvg-logo="[" group-title="Live: United Kingdom",UK: W HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/12476
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK: Watch" tvg-logo="[" group-title="Live: United Kingdom",UK: Watch
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1252
+#EXTINF:-1 tvg-ID="" tvg-name="UK: MTV" tvg-logo="" group-title="Live: United Kingdom",UK: MTV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/74227
+#EXTINF:-1 tvg-ID="yesterday.uk" tvg-name="UK: Yesterday HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Yesterday HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/936
+#EXTINF:-1 tvg-ID="zeecinema.uk" tvg-name="UK: Zee Cinema" tvg-logo="" group-title="Live: United Kingdom",UK: Zee Cinema
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2847
+#EXTINF:-1 tvg-ID="zeepunjabi.uk" tvg-name="UK: Zee Punjabi" tvg-logo="" group-title="Live: United Kingdom",UK: Zee Punjabi
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2855
+#EXTINF:-1 tvg-ID="zeetv.uk" tvg-name="UK: Zee TV" tvg-logo="" group-title="Live: United Kingdom",UK: Zee TV
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2837
+#EXTINF:-1 tvg-ID="zing.uk" tvg-name="UK: Zing" tvg-logo="" group-title="Live: United Kingdom",UK: Zing
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2854
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: FOX Sports UHD" tvg-logo="" group-title="Live: USA",VIP US: FOX Sports UHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/125451
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Bein Group =====" tvg-logo="" group-title="",===== Bein Group =====
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1207
+#EXTINF:-1 tvg-ID="VIPARBeinSportHD" tvg-name="VIP AR: Bein Sport HD" tvg-logo="[""]" group-title="Live: Bein Media",VIP AR: Bein Sport HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/2744
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport News HD" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport News HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/285
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport NBA HD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport NBA HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1177
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 4K UHD [Live During Events Only]" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 4K UHD [Live During Events Only]
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/34638
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Premium 1 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium 1 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80368
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Premium 2 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium 2 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80367
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Premium 3 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium 3 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80366
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 1 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 1 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80369
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 2 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 2 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80370
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 3 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 3 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80371
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 4 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 4 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80372
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 5 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 5 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80373
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 6 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 6 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80374
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 7 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 7 4K
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/80375
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Xtra FHD1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Xtra FHD1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/79147
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Xtra FHD2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Xtra FHD2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/79148
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC FHD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/100447
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC HD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/102367
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 1 FHD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 1 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/100448
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 1 HD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 1 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/102364
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/102368
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 2 FHD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 2 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/100449
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 2 HD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 2 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/102365
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/102369
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 3 FHD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 3 FHD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/100450
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 3 HD" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 3 HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/102366
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport AFC 3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport AFC 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/102370
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium FHD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium FHD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65018
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium FHD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium FHD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65019
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium FHD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium FHD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65020
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65023
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65024
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65025
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD4 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD4 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65026
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD5 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD5 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65027
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD6 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD6 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65028
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD7 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD7 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65029
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Xtra HD1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Xtra HD1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26465
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Xtra HD2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Xtra HD2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/26464
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport English FHD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English FHD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68099
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport English FHD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English FHD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport English FHD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English FHD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68110
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport French FHD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French FHD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68101
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport French FHD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French FHD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68102
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport French FHD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French FHD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65030
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65031
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65035
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65036
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65037
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD4 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD4 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65038
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD5 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD5 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65039
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD6 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD6 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65040
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD7 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD7 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/65041
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68104
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68105
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68106
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport French HD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French HD1 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68107
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport French HD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French HD2 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68108
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport French HD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French HD3 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68109
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Premium SD1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium SD1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68858
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Premium SD2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium SD2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68859
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport Premium SD3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium SD3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68860
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68863
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68864
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68865
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 4" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68866
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 5" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 5
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68867
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 6" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 6
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68868
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport 7" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 7
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/68869
+#EXTINF:-1 tvg-ID="beIN Sports 17 HD ARB" tvg-name="VIP AR: Bein Sport Xtra 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Xtra 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18827
+#EXTINF:-1 tvg-ID="NBA TV US" tvg-name="VIP AR: Bein Sport Xtra 2" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Xtra 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18828
+#EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="VIP AR: Bein Sport Premium HD1 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD1 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13800
+#EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="VIP AR: Bein Sport Premium HD2 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD2 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13799
+#EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="VIP AR: Bein Sport Premium HD3 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD3 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13798
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="VIP AR: Bein Sport HD1 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD1 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13797
+#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="VIP AR: Bein Sport HD2 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13796
+#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="VIP AR: Bein Sport HD3 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD3 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13795
+#EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="VIP AR: Bein Sport HD4 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD4 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13794
+#EXTINF:-1 tvg-ID="beIN Sports 8 ARB" tvg-name="VIP AR: Bein Sport HD5 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD5 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13793
+#EXTINF:-1 tvg-ID="beIN Sports 9 ARB" tvg-name="VIP AR: Bein Sport HD6 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD6 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13792
+#EXTINF:-1 tvg-ID="beIN Sports 10 ARB" tvg-name="VIP AR: Bein Sport HD7 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD7 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13791
+#EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="VIP AR: Bein Sport English HD1 1080P" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD1 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13660
+#EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="VIP AR: Bein Sport English HD2 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport English HD2 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/13661
+#EXTINF:-1 tvg-ID="beIN Sports 13 HD ARB" tvg-name="VIP AR: Bein Sport English HD3 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport English HD3 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18785
+#EXTINF:-1 tvg-ID="beIN Sports 14 HD ARB" tvg-name="VIP AR: Bein Sport French HD1 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport French HD1 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18824
+#EXTINF:-1 tvg-ID="beIN Sports 15 HD ARB" tvg-name="VIP AR: Bein Sport French HD2 1080P" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French HD2 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18825
+#EXTINF:-1 tvg-ID="beIN Sports 16 HD ARB" tvg-name="VIP AR: Bein Sport French HD3 1080P" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport French HD3 1080P
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/18826
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD1 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD1 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15595
+#EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="VIP AR: Bein Sport Premium HD2 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD2 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15594
+#EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="VIP AR: Bein Sport Premium HD3 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD3 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15593
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="VIP AR: Bein Sport HD1 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD1 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15592
+#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="VIP AR: Bein Sport HD2 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15591
+#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="VIP AR: Bein Sport HD3 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD3 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15590
+#EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="VIP AR: Bein Sport HD4 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD4 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15589
+#EXTINF:-1 tvg-ID="beIN Sports 8 ARB" tvg-name="VIP AR: Bein Sport HD5 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD5 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15588
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD6 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD6 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/21378
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD7 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD7 H265
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/21379
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium FHD1 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium FHD1 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33310
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium FHD2 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium FHD2 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33309
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium FHD3 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Premium FHD3 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33308
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD1 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD1 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33307
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD2 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD2 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33306
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD3 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD3 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33305
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD4 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD4 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33304
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD5 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD5 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33303
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD6 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD6 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33302
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD7 HEVC" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD7 HEVC
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33301
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD1" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport FHD1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25965
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD2" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport FHD2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25964
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD3" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport FHD3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25963
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD4" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport FHD4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25962
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD5" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport FHD5
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25961
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD6" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport FHD6
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25960
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD7" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD7
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25959
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD8" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD8
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25958
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD9" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD9
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25957
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD10" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD10
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/25956
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD1 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD1 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20735
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD2 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD2 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20734
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD3 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD3 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20733
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD1 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD1 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20732
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD2 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20731
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD3 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD3 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20730
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD4 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD4 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20729
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD5 H265 P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD5 H265 P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20728
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD1 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD1 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20276
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD2 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD2 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20275
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport Premium HD3 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport Premium HD3 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20274
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD1 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD1 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20273
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD2 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20272
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD3 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD3 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20271
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD4 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD4 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20270
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD5 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD5 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20269
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD6 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD6 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20267
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD7 1080P50" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD7 1080P50
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/20268
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD2 BKUP1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 BKUP1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/10271
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD1 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD1 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11612
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD2 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11611
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD3 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD3 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11610
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD4 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD4 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11609
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD5 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD5 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11608
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD6 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD6 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11607
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD7 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD7 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11606
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD8 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD8 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11605
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD9 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD9 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11604
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD10 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD10 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11602
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD11 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD11 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11601
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD12 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD12 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11600
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD13 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD13 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/11603
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD14 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD14 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15599
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD15 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD15 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15598
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD16 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD16 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15597
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD17 BKUP2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD17 BKUP2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/15596
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport SD1" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-1-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1188
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport SD2" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-2-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1187
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport SD3" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-3-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1186
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport SD4" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-4-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1185
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport SD5" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-5-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD5
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1184
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport SD6" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-6-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD6
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1183
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport SD7" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-7-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD7
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1182
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport SD8" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-8-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD8
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1181
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport SD9" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-9-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD9
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport SD10" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-10-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD10
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1179
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport SD11" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bein-sports-11-hd.jpg" group-title="Live: Bein Media",VIP AR: Bein Sport SD11
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/1178
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Action" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Action
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127678
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Blitz" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Blitz
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127679
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Cricket" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Cricket
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127680
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Football" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Football
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127681
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Football Plus" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Football Plus
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/131817
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Golf" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Golf
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127682
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Grandstand" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Grandstand
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127683
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport La Liga" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport La Liga
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127684
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport LIYU Ethiopia" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport LIYU Ethiopia
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/132186
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Maximo 1" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Maximo 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127685
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Maximo 2" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Maximo 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/132189
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Maximo 3" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Maximo 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/132425
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Maximo 360" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Maximo 360
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/132426
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Motorsport" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Motorsport
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127686
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Premier League" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Premier League
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127688
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Play" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Play
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127687
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport PSL" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport PSL
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127689
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSpo#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="VIP US: Smithsonian Channel" tvg-logo="" group-title="Live: USA",VIP US: Smithsonian Channel
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/22861rt Rugby" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Rugby
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127690
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Tennis" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Tennis
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127691
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Variety 1" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Variety 1
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127692
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Variety 2" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Variety 2
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127693
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Variety 3" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Variety 3
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127694
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Variety 4" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Variety 4
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/127695
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="VIP US: Smithsonian Channel" tvg-logo="" group-title="Live: USA",VIP US: Smithsonian Channel
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/22861
+#EXTINF:-1 tvg-ID="smithsonian.ca" tvg-name="VIP CAN: SMITHSONIAN" tvg-logo="[" group-title="Live: Canada",VIP CAN: SMITHSONIAN
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/22708
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CAN: SMITHSONIAN Channel HD" tvg-logo="" group-title="Live: Canada",VIP CAN: SMITHSONIAN Channel HD
+http://pandaiptv.club:8080/u26tnpSc5nWY/sMrYq2JMwDya/33789
